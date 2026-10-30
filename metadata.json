@@ -1,0 +1,6 @@
+{
+  "name": "Clima Glass",
+  "description": "Aplicación del clima con diseño Liquid Glass, pronósticos en tiempo real por hora y día, animaciones fluidas y métricas atmosféricas avanzadas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
